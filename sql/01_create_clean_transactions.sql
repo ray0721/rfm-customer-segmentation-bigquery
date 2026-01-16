@@ -1,0 +1,1 @@
+Add clean transactions SQL
