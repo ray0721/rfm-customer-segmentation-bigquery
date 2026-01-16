@@ -45,7 +45,7 @@ Insight queries:
 - `07_top_customers.sql`
 - `08_segment_distribution.sql`
 
-## Key Insights (replace with your real results)
+## Key Insights 
 - Champions generate the highest revenue despite being a smaller share of customers.
 - Loyal Customers show strong repeat buying behavior, creating upsell/cross-sell potential.
 - At Risk and Hibernating segments still contribute meaningful revenue, suggesting retention opportunities.
