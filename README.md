@@ -7,7 +7,7 @@ This project builds an end-to-end **RFM (Recency, Frequency, Monetary)** custome
 - **Dataset**: `rfm_online_retail`
 
 ## Dataset
-Online Retail dataset (Kaggle / UCI family).  
+Online Retail dataset (Kaggle).  
 The raw data contains invoice-level transactions including customer, date, quantity, and price.
 
 ## What I built
