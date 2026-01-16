@@ -55,6 +55,11 @@ Insight queries:
 - SQL window functions (`NTILE`)
 - GitHub for version control
 
+## Author
+**Md Rayhan Hossain**  
+MS Business & Marketing Analytics  
+LinkedIn: https://www.linkedin.com/in/ray-07
+
 ## Screenshots
 Add screenshots in `/assets` (recommended):
 - BigQuery tables list
